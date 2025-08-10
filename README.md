@@ -3,7 +3,7 @@
 💻 **Ingeniero en Computación** | 📍 Apasionado por la tecnología, el desarrollo web, la ciberseguridad y la inteligencia artificial.  
 🚀 Me encanta aprender, experimentar con nuevas tecnologías y crear proyectos que aporten valor.
 
-![Programando con flow](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+![Programando con flow](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTEzbzBtbHhiczBhd2Y1amJzd3Q0ZzQ4eHFrMjJzNjd3NmpkaTJ2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8m7nAJTYvzNUh54HQm/giphy.gif)
 
 
 ---

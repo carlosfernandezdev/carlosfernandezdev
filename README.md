@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Carlos Fernández Orta
+# 👋 ¡Hola! Soy Carlos Fernández
 
 💻 **Ingeniero en Computación** | 📍 Apasionado por la tecnología, el desarrollo web, la ciberseguridad y la inteligencia artificial.  
 🚀 Me encanta aprender, experimentar con nuevas tecnologías y crear proyectos que aporten valor.

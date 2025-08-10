@@ -3,11 +3,7 @@
 💻 **Ingeniero en Computación** | 📍 Apasionado por la tecnología, el desarrollo web, la ciberseguridad y la inteligencia artificial.  
 🚀 Me encanta aprender, experimentar con nuevas tecnologías y crear proyectos que aporten valor.
 
-<p align="center">
-  <img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTEzbzBtbHhiczBhd2Y1amJzd3Q0ZzQ4eHFrMjJzNjd3NmpkaTJ2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8m7nAJTYvzNUh54HQm/giphy.gif)" width="300" />
-</p>
-
-
+![Programando con flow](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjExdHlwczhiaHE0MDA4N2pka2huejlldTBtcnNyYmR5cWlidGxuMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8m7nAJTYvzNUh54HQm/giphy.gif)
 ---
 
 ## 🔧 Tecnologías y Herramientas
@@ -16,8 +12,10 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,4 +48,4 @@
 
 ---
 
-⭐ *"La mejor manera de predecir el futuro es crearlo."*
+⭐ *"La pasion es el camino al exito."*
